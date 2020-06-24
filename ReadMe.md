@@ -1,6 +1,6 @@
 
 ## Objective
-### Train LeNet5 on Bengali Digits Datasets with SGD/Adam Optimizer:
+### Train LeNet5 on Bengali Digits Datasets with SGD/Adam Optimizer for classification:
   * Analysis of loss and accuracy graphs.
   * Observing model space.
 #### Framework: PyTorch
